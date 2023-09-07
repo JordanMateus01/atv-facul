@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    gap: 3em;
+}
+
+li a {
+    gap: 4em;
+    text-decoration: none;
+    color: #f7f9f8;
+}
+a:hover{
+    background-color: #eed999;
+    color: #24292f;
+    border-radius: 3px;
+    transform: scale(1.03);
+}
+body {
+    background-color: #24292f;
+    color: #f7f9f8;
+    font-size: 700;
+    font-style: Arial;
+}
+
+div h1, h2 {
+    color: #ebc556;
+}
+
+h1 {
+    font-size: 96px;
+}
+
+section #projetos {
+    background-color: #24292f;
+}
